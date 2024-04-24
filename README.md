@@ -18,7 +18,7 @@ To utilize Mosumbi_dx and disable DWM functionality:
 
 1. Clone the repository from [Mosumbi_dx Launcher Repository](link-to-your-repository) to your local environment.
 2. Configure the project according to your requirements and system specifications.
-3. Execute the Mosumbi_dx launcher and Musumbi_dx, diable dwm and following prompts to establish a remote session.
+3. Execute the Mosumbi_dx launcher and Musumbi_dx, disable dwm and following prompts to establish a remote session.
 
 ## Contribution
 
