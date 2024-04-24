@@ -1,0 +1,11 @@
+﻿@page "/about"
+@attribute [Authorize(Policy = PolicyNames.OrganizationAdminRequired)]
+
+<h3>About Musumbi</h3>
+
+<p>
+    This software is only created to online exams.
+</p>
+<p>
+    Version: @(AppVersionHelper.GetAppVersion())
+</p>

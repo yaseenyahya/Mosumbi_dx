@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ImmyBot.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="ImmyBot.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Immense.RemoteControl.Desktop.Linux\Mosumbi.Dx.Desktop.Linux.csproj" />
+    <ProjectReference Include="..\..\Immense.RemoteControl.Desktop.UI\Mosumbi.Dx.Desktop.UI.csproj" />
+  </ItemGroup>
+
+</Project>
