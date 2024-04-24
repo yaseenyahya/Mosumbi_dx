@@ -27,11 +27,3 @@ Contributions to Mosumbi_dx are welcome! Feel free to open issues for suggestion
 ## License
 
 This project is licensed under the MIT License.
-
-## Acknowledgments
-
-Special thanks to all contributors who have dedicated their efforts to improving Mosumbi_dx.
-
----
-
-Feel free to adjust the sections, add more details, or incorporate specific instructions relevant to your project.
