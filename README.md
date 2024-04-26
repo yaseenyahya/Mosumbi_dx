@@ -24,7 +24,7 @@ To utilize Mosumbi_dx and disable DWM functionality:
 
 Contributions to the Mosumbi_dx Launcher project are welcome! Feel free to open issues for suggestions, bug reports, or feature requests. Additionally, pull requests are encouraged for implementing enhancements or resolving issues.
 
-**For the paid version that works on Windows 11 and without disabling dwm.exe, contact me directly:**
+**To get the paid version compatible with Windows 11, without screen flickering or graphic disturbances caused by disabling dwm.exe, please contact me directly.**
 
 **Phone:** +923331375203  
 **Email:** yaseenyahya021@gmail.com
