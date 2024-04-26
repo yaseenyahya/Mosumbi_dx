@@ -20,10 +20,11 @@ To utilize Mosumbi_dx and disable DWM functionality:
 2. Configure the project according to your requirements and system specifications.
 3. Execute the Mosumbi_dx launcher and Musumbi_dx, disable dwm and following prompts to establish a remote session.
 
-## Contribution
+## Contributions
 
-Contributions to Mosumbi_dx are welcome! Feel free to open issues for suggestions, bug reports, or feature requests. Additionally, pull requests are encouraged for implementing enhancements or resolving issues.
+Contributions to the Mosumbi_dx Launcher project are welcome! Feel free to open issues for suggestions, bug reports, or feature requests. Additionally, pull requests are encouraged for implementing enhancements or resolving issues.
 
-## License
+**For the paid version that works on Windows 11 and without disabling dwm.exe, contact me directly:**
 
-This project is licensed under the MIT License.
+**Phone:** +923331375203  
+**Email:** yaseenyahya021@gmail.com
